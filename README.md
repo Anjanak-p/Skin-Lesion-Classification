@@ -31,6 +31,7 @@ A deep learning project that classifies skin lesions using the **HAM10000** data
 - **Backend**: Flask, PyTorch
 - **Frontend**: HTML, CSS, JavaScript
 - **Data**: Pandas, NumPy
-
+- **Database**:MySQL
+  
 ---
 
